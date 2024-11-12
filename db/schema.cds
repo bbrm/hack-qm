@@ -13,4 +13,5 @@ entity Kafi
     key ID : UUID;
     Schoggi : String(100);
     Branch : String(100);
+    Neu : String(100);
 }
